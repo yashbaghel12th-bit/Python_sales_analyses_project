@@ -217,43 +217,7 @@ Festival-Sales-Analysis/
 
 ---
 
-## ▶️ How to Run the Project
 
-### Step 1: Clone the repository
-
-```bash
-git clone <your-github-repository-url>
-```
-
-### Step 2: Open the project folder
-
-```bash
-cd Festival-Sales-Analysis
-```
-
-### Step 3: Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### Step 4: Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### Step 5: Open the notebook
-
-Open:
-
-```text
-Festival_Sales_Analysis.ipynb
-```
-
-Run the cells sequentially to reproduce the analysis.
-
----
 
 ## 💡 Business Recommendations
 
